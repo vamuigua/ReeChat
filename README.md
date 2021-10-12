@@ -1,6 +1,6 @@
 # ReeChat
 
-A Live Chat Room Vue 3 app with User Authentication using Firebase
+A Vue 3 Live Chat-Room app, using Firebase Authentication & Cloud Firestore.
 
 ## Project setup
 
